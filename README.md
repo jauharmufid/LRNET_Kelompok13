@@ -1,1 +1,9 @@
-# LRNET_Kelompok13
+# Local Relational Networks for Image Recognition (LR-NET)
+# LR-NET_Kelompok 13
+# Nizar Rizqi Bachtiar (1101202335)
+# Jauhar Mufid Widyandani (1101204061)
+# Azril Fikriansyah (1101204083)
+# 
+# Original File 
+# Github = https://github.com/gan3sh500/local-relational-nets/tree/master
+# Dataset = https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
