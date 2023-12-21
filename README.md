@@ -15,7 +15,7 @@ https://github.com/gan3sh500/local-relational-nets/tree/master
 https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
 ```
 
-## Dependancies:
+# Dependancies:
 ```
 pip install <pytorch-latest.whl url>
 ```
