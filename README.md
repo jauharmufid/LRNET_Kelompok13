@@ -6,8 +6,11 @@ LR-NET_Kelompok 13
 3. Azril Fikriansyah (1101204083)
 
 # Original File 
-##Github 
+##Github
+```
 https://github.com/gan3sh500/local-relational-nets/tree/master
-
+```
 ##Dataset
+```
 https://medium.com/@nutanbhogendrasharma/pytorch-convolutional-neural-network-with-mnist-dataset-4e8a4265e118
+```
